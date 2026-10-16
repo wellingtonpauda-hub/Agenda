@@ -3,6 +3,6 @@
  "main": "worker/index.ts",
  "compatibility_date": "2026-10-16",
  "assets": {"directory": "./dist", "binding": "ASSETS", "not_found_handling": "single-page-application", "run_worker_first": ["/api/*"]},
- "d1_databases": [{"binding":"DB","database_name":"agenda-nuvem-db","database_id":"f91e70ed-b3b5-4f32-b0de-205f578fdadb"}]
+ "d1_databases": [{"binding":"DB","database_name":"agenda-nuvem-db","database_id":"f91e70ed-b3b5-4f32-b0de-205f578fdadb"}],
  "compatibility_flags": ["nodejs_compat"]
 }
