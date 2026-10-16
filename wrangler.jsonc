@@ -4,5 +4,12 @@
   "assets": {
     "directory": "./dist",
     "not_found_handling": "single-page-application"
-  }
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "agenda-nuvem-db",
+      "database_id": "f91e70ed-b3b5-4f32-b0de-205f578fdadb"
+    }
+  ]
 }
